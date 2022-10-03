@@ -1,0 +1,16 @@
+PODS:
+  - YLBDMine (0.1.0)
+
+DEPENDENCIES:
+  - YLBDMine (from `../`)
+
+EXTERNAL SOURCES:
+  YLBDMine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLBDMine: 8d409aa7bbf0e641b6981315c165cbffc6971c3d
+
+PODFILE CHECKSUM: 4a8ceea96cf2ec37be5c63e148c8df01ac18aa18
+
+COCOAPODS: 1.11.2

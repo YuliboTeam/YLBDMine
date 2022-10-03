@@ -1,0 +1,6 @@
+framework module Pods_YLBDMine_Example {
+  umbrella header "Pods-YLBDMine_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

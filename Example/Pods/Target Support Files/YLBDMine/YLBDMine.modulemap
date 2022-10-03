@@ -1,0 +1,6 @@
+framework module YLBDMine {
+  umbrella header "YLBDMine-umbrella.h"
+
+  export *
+  module * { export * }
+}
